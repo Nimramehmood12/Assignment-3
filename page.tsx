@@ -1,10 +1,10 @@
-import Header from "./components/header";
-import Footer from "./components/footer";
-export default function Home(){
-  return(
-    <div>
-      <Header></Header>
-      <Footer></Footer>
-    </div>
-  )
+import Header from "@/app/components/header"
+
+export default function About(){
+    return(
+        <div>
+
+        <h1>I AM ABOUT US </h1>{""}
+        </div>
+    )
 }
